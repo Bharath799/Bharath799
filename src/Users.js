@@ -76,7 +76,7 @@ class Users extends React.Component{
                     }
                   </tbody>
                 </table>
-                <div>
+                <div class="container">
                     <form onSubmit={this.handleSubmit}>
                     <div>
                         <label htmlFor="name">name</label>
