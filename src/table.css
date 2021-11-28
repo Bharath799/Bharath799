@@ -1,0 +1,20 @@
+.table, th, td{
+    border: 2px solid black;
+    width: auto;
+    border-collapse: collapse;
+}
+
+input[type=text] {
+    border: 2px solid black;
+    width: 40%;
+    padding: 12px 20px;
+    margin: 05px 0;
+    box-sizing: border-box;
+  }
+
+  .container{
+    padding: 20px;
+    border: 2px, black;
+  }
+
+ 
